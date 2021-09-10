@@ -4,10 +4,7 @@
 <p align='center'>
  fullstack JS Développeur web et web Mobile.
 </p>
-<p align='center'>
- <a align='left' href=' https://linkedin.com/in/amar-alragle619' alt='Amar Salah Omar'>
-    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' />
-</a> 
+[![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amar-alragle619/)](https://www.linkedin.com/in/amar-alragle619/) 
 
 </p>
 <p align='center'>
