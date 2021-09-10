@@ -36,7 +36,8 @@
 📆 2021 - moment\
 📍 **Konexio** -Paris,Farance
 
-
+<img align="right" srs="![image](https://user-images.githubusercontent.com/85293666/132877772-b4f06a7d-be9c-4971-9523-692364fec109.png)
+/>
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
