@@ -2,7 +2,7 @@
   Hi there 👋 I'm AMAR 👨‍💻
 </h1>
 <p align='center'>
-  JE SUIS DEVELOPPEUR WEB FULL-STACK_WEB MOBILE.
+ fullstack JS Développeur web et web Mobile.
 </p>
 <p align='center'>
  <a align='left' href='linkedin.com/in/amar-alragle619' alt='Amar Salah Omar'>
@@ -14,10 +14,25 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Amarsalah-31&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 <p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://![image](https://user-images.githubusercontent.com/85293666/132868684-4ae8797a-93bf-443b-8871-3f47c0bceebb.png)
-" />
+### ⚡ Technologies
+- Back : 
+  ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+  
+- Front :
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+- Frameworks :
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white) 
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Sass](https://img.shields.io/badge/-Sass-CD669A?style=for-the-badge&logo=Sass&logoColor=white)
+
+- DataBase :
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 </p>
 **Amarsalah-31/Amarsalah-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
