@@ -1,5 +1,5 @@
-<h1 align='center'>
-  Hi there 👋 I'm AMAR 👨‍💻
+<h1>
+  Hi there 👋 I'm AMAR 
 </h1>
 <p align='center'>
  fullstack JS Développeur web et web Mobile.
