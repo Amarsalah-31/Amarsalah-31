@@ -2,13 +2,16 @@
   Hi there 👋 I'm AMAR 👨‍💻
 </h1>
 <p align='center'>
-  JE SUIS DEVELOPPEUR WEB FULL6STACK -WEB MOBILE.
+  JE SUIS DEVELOPPEUR WEB FULL-STACK_WEB MOBILE.
 </p>
 <p align='center'>
  <a align='left' href='linkedin.com/in/amar-alragle619' alt='Amar Salah Omar'>
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' />
 </a> 
 
+</p>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Amarsalah-31&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 <p align='center'>
   💻 My workspace<br/><br/>
