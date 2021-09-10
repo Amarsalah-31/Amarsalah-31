@@ -14,10 +14,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Amarsalah-31&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 <p align='center'>
-### ⚡ Technologies
-- Back : 
-  ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+
   
 - Front :
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
