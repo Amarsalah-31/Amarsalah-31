@@ -39,6 +39,7 @@
 ![html](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=whit)
 ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![Wordpress](https://img.shields.io/badge/WordPress-563D7C?logo=WordPress&logoColor=white)
 
 - 📖 **Informatique**\
 📆 2008 - 2014\
